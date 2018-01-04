@@ -50,11 +50,13 @@ header a {
 }
 
 header .site-name {
+    padding-left: 8px;
     display: table-cell;
     vertical-align: middle;
 }
 
 header nav {
+    padding-right: 8px;
     display: table-cell;
     vertical-align: middle;
     text-align: right;
@@ -73,6 +75,10 @@ header nav li:last-child {
 
 header .site-name a {
     font-size: 1.4rem;
+}
+
+.content {
+    padding: 0 8px;
 }
 
 /**
