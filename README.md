@@ -9,5 +9,3 @@
 ## デモサイト
 [http://tutorialblog.it-engineer-lab.com/](http://tutorialblog.it-engineer-lab.com/)
 
-ベーシック認証
-Username: demo  /  Password: blog
