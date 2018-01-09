@@ -7,5 +7,5 @@
 1. [汎用クラスベースビューによるCRUDの実装](https://it-engineer-lab.com/archives/402)
 
 ## デモサイト
-[http://tutorialblog.it-engineer-lab.com/](http://tutorialblog.it-engineer-lab.com/)
+[https://tutorialblog.it-engineer-lab.com/](https://tutorialblog.it-engineer-lab.com/)
 
